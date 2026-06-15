@@ -1,0 +1,3 @@
+##HTTP(hyper text transfer protocol)
+## y here they created
+--they were created so the servers could talk to each other
